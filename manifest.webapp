@@ -1,0 +1,20 @@
+{
+    "version":"1.0.1",
+	"name": "Secret Message",
+    "description": "This app to hide and read image using steganography technique.",
+    "launch_path": "/index.html",
+	"fullscreen": "false",
+    "icons": {
+        "32":  "/icons/32.png",
+        "60":  "/icons/60.png",
+        "90":  "/icons/90.png",
+        "120": "/icons/120.png",
+        "128": "/icons/128.png",
+        "256":  "/icons/256.png"
+    },
+	"developer": {
+        "name": "Rizky Ariestiyansyah",
+        "url": "http://oonlab.com"
+    },
+    "default_locale": "en"
+}
